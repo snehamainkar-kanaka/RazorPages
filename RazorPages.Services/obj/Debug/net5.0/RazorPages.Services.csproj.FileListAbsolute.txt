@@ -1,0 +1,15 @@
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\bin\Debug\net5.0\RazorPages.Services.deps.json
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\bin\Debug\net5.0\RazorPages.Services.dll
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\bin\Debug\net5.0\ref\RazorPages.Services.dll
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\bin\Debug\net5.0\RazorPages.Services.pdb
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\bin\Debug\net5.0\RazorPages.Models.dll
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\bin\Debug\net5.0\RazorPages.Models.pdb
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\obj\Debug\net5.0\RazorPages.Services.csproj.AssemblyReference.cache
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\obj\Debug\net5.0\RazorPages.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\obj\Debug\net5.0\RazorPages.Services.AssemblyInfoInputs.cache
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\obj\Debug\net5.0\RazorPages.Services.AssemblyInfo.cs
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\obj\Debug\net5.0\RazorPages.Services.csproj.CoreCompileInputs.cache
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\obj\Debug\net5.0\RazorPages.Services.csproj.CopyComplete
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\obj\Debug\net5.0\RazorPages.Services.dll
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\obj\Debug\net5.0\ref\RazorPages.Services.dll
+C:\Users\Kanaka\source\repos\RazorPages\RazorPages.Services\obj\Debug\net5.0\RazorPages.Services.pdb

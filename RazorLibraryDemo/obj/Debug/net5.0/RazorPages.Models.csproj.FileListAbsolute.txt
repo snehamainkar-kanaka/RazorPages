@@ -1,0 +1,12 @@
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\bin\Debug\net5.0\RazorPages.Models.deps.json
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\bin\Debug\net5.0\RazorPages.Models.dll
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\bin\Debug\net5.0\ref\RazorPages.Models.dll
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\bin\Debug\net5.0\RazorPages.Models.pdb
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\obj\Debug\net5.0\RazorPages.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\obj\Debug\net5.0\RazorPages.Models.AssemblyInfoInputs.cache
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\obj\Debug\net5.0\RazorPages.Models.AssemblyInfo.cs
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\obj\Debug\net5.0\RazorPages.Models.csproj.CoreCompileInputs.cache
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\obj\Debug\net5.0\RazorPages.Models.dll
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\obj\Debug\net5.0\ref\RazorPages.Models.dll
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\obj\Debug\net5.0\RazorPages.Models.pdb
+C:\Users\Kanaka\source\repos\RazorPages\RazorLibraryDemo\obj\Debug\net5.0\RazorPages.Models.csproj.AssemblyReference.cache
