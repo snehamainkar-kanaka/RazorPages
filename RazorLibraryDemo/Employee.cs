@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace RazorPages.Models
 {
@@ -9,5 +10,10 @@ namespace RazorPages.Models
         public string Email { get; set; }
         public string PhotoPath { get; set; }
         public Dept? Department { get; set; }
+
+        public static implicit operator Employee(List<Employee> v)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

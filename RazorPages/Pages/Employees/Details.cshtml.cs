@@ -9,21 +9,28 @@ using RazorPages.Services;
 
 namespace RazorPages.Pages.Employees
 {
-    public class DetailsModel : PageModel
+    public class Details : PageModel
     {
         private readonly IEmployeeRepository employeeRepository;
 
-        public DetailsModel(IEmployeeRepository employeeRepository)
+        public Details(IEmployeeRepository employeeRepository)
         {
             this.employeeRepository = employeeRepository;
         }
 
         public Employee Employee { get; private set; }
 
-   
-        public void OnGet(int id)
+        [BindProperty(SupportsGet =true)]
+        public string Message { get;  set; }
+
+        public IActionResult OnGet(int id)
         {
             Employee = employeeRepository.GetEmployee(id);
+            if (Employee == null)
+            {
+                return RedirectToPage("/NotFound");
+            }
+            return Page();
         }
     }
 }

@@ -17,9 +17,11 @@ namespace RazorPages.Pages.Employees
         {
             _employeeRepository = employeeRepository;
         }
+        [BindProperty(SupportsGet = true)]
+        public string SearchTerm { get; set; }
         public void OnGet()
         {
-            employees = _employeeRepository.GetAllEmployees();
+            employees = _employeeRepository.Search(SearchTerm);
         }
     }
 }

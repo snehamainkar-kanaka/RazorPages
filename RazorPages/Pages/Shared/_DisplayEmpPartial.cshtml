@@ -1,0 +1,23 @@
+﻿@model Employee
+
+@{
+    var showButtons = (bool)ViewData["showButton"];
+    var photoPath = "~/images/" + (Model.PhotoPath ?? "user2.png");
+
+}
+
+<div class="card m-3" style="min-width: 18rem; max-width:30.5%;">
+    <div class="card-header">
+        <h3>@Model.Name</h3>
+    </div>
+
+    <img class="card-img-top imageThumbnail" src="@photoPath"
+         asp-append-version="true" />
+    @if (showButtons) { 
+    <div class="card-footer text-center">
+        <a asp-page="/Employees/Details" class="btn btn-primary m-1" asp-route-ID="@Model.Id">View</a>
+        <a asp-page="/Employees/Edit" class="btn btn-primary m-1" asp-route-ID="@Model.Id">Edit</a>
+        <a asp-page="/Employees/Delete" class="btn btn-danger m-1" asp-route-ID="@Model.Id">Delete</a>
+    </div>
+    }
+</div>
